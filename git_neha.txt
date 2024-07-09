@@ -1,0 +1,15 @@
+git config --global user.name "Neha3399"
+git config --global user.email "ptneha1@gmail.com"
+git init
+git add .
+git remote add origin "https://github.com/Neha3399/git_pro.git"
+git commit -m "commit label"
+git push -u origin master
+
+
+
+second
+
+git add .
+git commit -m "msg"
+git push
