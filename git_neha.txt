@@ -17,3 +17,14 @@ git push
 
 clone
 git clone "url"
+
+branch add
+
+git branch branchname
+git checkout branch name
+git add .
+git commit -m "msg"
+git push -u origin main
+
+
+
